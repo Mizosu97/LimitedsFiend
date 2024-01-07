@@ -21,5 +21,7 @@ To search for accounts with Limiteds:
 
 To search for accounts with a specific item:
 1. `node LimitedsFiend.js <itemID1> <itemID2> <etc>` - You can input as many item IDs as you want as arguments.
-   EXAMPLE: `node LimitedsFiend.js 1365767 250395631 42211680 1285307`  
-2. Input the account ID range in the given prompt. For example, if you want to search for accounts whos userID is between 1000 and 2000, you would enter `1000-2000`
+   
+   EXAMPLE: `node LimitedsFiend.js 1365767 250395631 42211680 1285307`
+   
+3. Input the account ID range in the given prompt. For example, if you want to search for accounts whos userID is between 1000 and 2000, you would enter `1000-2000`
